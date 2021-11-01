@@ -6,9 +6,6 @@ function ghg (length, width){
         if(length != NaN !=width){
          result  = length*width
         }
-        else alert('Введите число');
-
-    }
     else if (length){
         result = length**2
     }
